@@ -48,7 +48,7 @@ If you omit `tags` in a blog post (in other words, if no tag is specified), the 
 export const blogSchema = z.object({
   // ---
   // replace "others" with whatever you want
-  tags: z.array(z.string()).default([""]),
+  tags: z.array(z.string()).default(["others"]),
   ogImage: z.string().optional(),
   description: z.string(),
 });
