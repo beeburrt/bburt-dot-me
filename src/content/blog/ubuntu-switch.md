@@ -29,7 +29,7 @@ And so, ever since reading about how Ubuntu, and any derivative of Ubuntu, is NO
 
 And while I can see the appeal in "distro-hopping," as they say, it is kind of fun, it's also kind of a pain.
 
-But so I went looking for a new OS. Trying to decide which OS I wanted to switch to, I considered a few: [Pop!_OS](https://pop.system76.com/), [Fedora](https://getfedora.org/), [Mint](https://linuxmint.com/), [FreeBSD](https://www.freebsd.org/). 
+But so I went looking for a new OS. Trying to decide which OS I wanted to switch to, I considered a few: [Pop!\_OS](https://pop.system76.com/), [Fedora](https://getfedora.org/), [Mint](https://linuxmint.com/), [FreeBSD](https://www.freebsd.org/).
 
 A couple weeks ago I finally made the switch. To [Debian](https://www.debian.org/).
 

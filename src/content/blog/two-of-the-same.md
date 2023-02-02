@@ -34,11 +34,12 @@ First we use the bzip2 tool and give it the name of the file, run:
 ```bash
 bunzip2 firefox-108.0b1.tar.bz2
 ```
- to decompress it. Now I'm left with `firefox-108.0b1.tar`, minus the `bz2` at the end. So that worked.
+
+to decompress it. Now I'm left with `firefox-108.0b1.tar`, minus the `bz2` at the end. So that worked.
 
 Now let's check the contents with the 'table-of-contents' mode by running:
 
- ```bash
+```bash
 tar -tvf firefox-108.0b1.tar
 ```
 
@@ -69,6 +70,7 @@ Then:
 ```bash
 sudo apt update
 ```
+
 And finally:
 
 ```bash
@@ -151,7 +153,7 @@ There's a line that says `STARTUPWMCLASS=Firefox Developer`
 
 That line needs changed.
 
-Run this command: 
+Run this command:
 
 ```bash
 xprop WM_CLASS
