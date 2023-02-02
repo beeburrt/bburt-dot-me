@@ -3,8 +3,8 @@ import { LOGO_IMAGE, SITE } from "@config";
 import Hr from "./Hr.astro";
 import LinkButton from "./LinkButton.astro";
 
-// import logoPNG from "/assets/logo.png";
-// import logoSVG from "/assets/logo.svg";
+import logoPNG from "/assets/logo.png";
+import logoSVG from "/assets/logo.svg";
 
 export interface Props {
   activeNav?: "posts" | "tags" | "about" | "search";
@@ -21,8 +21,8 @@ const { activeNav } = Astro.props;
         {
           LOGO_IMAGE.enable ? (
             <img
-              src={LOGO_IMAGE}
-              alt="Logo"
+              src={LOGO_IMAGE.svg ? logoSVG : logoPNG}
+              alt="AstroPaper Logo"
               width={LOGO_IMAGE.width}
               height={LOGO_IMAGE.height}
             />
@@ -191,7 +191,7 @@ const { activeNav } = Astro.props;
   const secondLine = document.querySelector("#second-line ")?.classList;
   const thirdLine = document.querySelector("#third-line")?.classList;
 
-  menuBtn!.addEventListener("click", function (event) {
+  menuBtn?.addEventListener("click", function () {
     const menuExpanded = menuBtn?.getAttribute("aria-expanded");
     if (menuExpanded === "false") {
       menuBtn?.setAttribute("aria-expanded", "true");

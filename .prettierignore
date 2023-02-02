@@ -1,8 +1,8 @@
 # Ignore everything
 /*
-*.jpg
 *.svg
 *.png
+*.jpg
 
 # Except these files & folders
 !/src
@@ -12,5 +12,5 @@
 !astro.config.mjs
 !package.json
 !.prettierrc
-!.eslintrc.json
+!.eslintrc.js
 !README.md

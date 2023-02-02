@@ -1,5 +1,5 @@
 {
-  "name": "bburt-dot-me",
+  "name": "astro-paper",
   "version": "2.0.0",
   "private": false,
   "scripts": {
@@ -11,6 +11,7 @@
     "astro": "astro",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
+    "cz": "cz",
     "prepare": "husky install",
     "lint": "eslint ."
   },
@@ -34,6 +35,8 @@
     "@types/react": "^18.0.27",
     "@typescript-eslint/parser": "^5.50.0",
     "astro-eslint-parser": "^0.11.0",
+    "commitizen": "^4.3.0",
+    "cz-conventional-changelog": "^3.3.0",
     "eslint": "^8.33.0",
     "eslint-plugin-astro": "^0.23.0",
     "husky": "^8.0.3",
@@ -41,8 +44,7 @@
     "prettier": "^2.8.3",
     "prettier-plugin-tailwindcss": "^0.2.2",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "remark": "^14.0.2"
+    "react-dom": "^18.2.0"
   },
   "config": {
     "commitizen": {
