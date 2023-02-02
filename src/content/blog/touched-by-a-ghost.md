@@ -10,7 +10,7 @@ tags:
   - homelessness
   - drug addiction
 ogImage: ""
-description:
+description: Paranormal encounter alone late at night in a gas station bathroom
 ---
 
 So this happened:
