@@ -98,7 +98,7 @@ export default function SearchBar({ searchList }: Props) {
           Found {searchResults?.length}
           {searchResults?.length && searchResults?.length === 1
             ? " result"
-            : " results"}{" "}
+            : " results"}
           for '{inputVal}'
         </div>
       )}
