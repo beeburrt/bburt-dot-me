@@ -3,7 +3,7 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://bburt.me/",
   author: "Brian Burt",
-  desc: "Light-hearted blog about web development, learning, my life and my mistakes",
+  desc: "Light-hearted blog about learning web development, my life and my mistakes",
   title: "BBurt-dot-me",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
