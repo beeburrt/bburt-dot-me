@@ -11,10 +11,11 @@
     "astro": "astro",
     "format:check": "prettier --check .",
     "format": "prettier --write .",
-    "cz": "cz",
+    "cz": "cz --no-verify",
     "prepare": "husky install"
   },
   "dependencies": {
+    "@astrojs/cloudflare": "^6.1.1",
     "@astrojs/rss": "^2.1.0",
     "astro": "^2.0.4",
     "fuse.js": "^6.6.2",

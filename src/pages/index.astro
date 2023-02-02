@@ -40,23 +40,22 @@ const socialCount = SOCIALS.filter(social => social.active).length;
         </svg>
       </a>
 
+      <p>I'm B.Burt (aka beeburrt). Welcome to my website/blog :)</p>
+      <p>What is this, you may ask?</p>
       <p>
-        I'm B.Burt (beeburrt). I'm
+        I've always wanted to write a book about my life. And in case I never
+        do, there's this. Also, I wanted a place my folks can read up on the
+        stuff I'm up to, what I write. Hi mom and dad 👋
       </p>
       <p>
-        Read the blog posts or check
-        <LinkButton
-          className="hover:text-skin-accent underline underline-offset-4 decoration-dashed"
-          href="https://github.com/satnaing/astro-paper#readme"
-        >
-          README
-        </LinkButton> for more info.
+        Second, I'm currently studying web development. So this web space also
+        serves as a place to point prospective employers to. Get in touch!
       </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">Social Links:</div>
+            <div class="social-links">Some Socials:</div>
             <Socials />
           </div>
         )

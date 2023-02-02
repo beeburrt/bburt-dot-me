@@ -7,7 +7,7 @@ featured: true
 ogImage: ""
 tags:
   - browsers
-  - writing
+  - learning
   - linux
   - Firefox
 description: Solving an issue where there were two of the same Firefox Developer Edition browser icon on my dock

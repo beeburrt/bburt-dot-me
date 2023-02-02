@@ -3,8 +3,8 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://bburt.me/",
   author: "Brian Burt",
-  desc: "Light-hearted writing about web development, learning, and life lessons",
-  title: "beeburrt",
+  desc: "Light-hearted blog about web development, learning, my life and my mistakes",
+  title: "BBurt-dot-me",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -34,7 +34,7 @@ export const SOCIALS: SocialObjects = [
     name: "Instagram",
     href: "https://instagram.com/beeburrt",
     linkTitle: `${SITE.title} on Instagram`,
-    active: true,
+    active: false,
   },
   {
     name: "LinkedIn",
@@ -46,7 +46,7 @@ export const SOCIALS: SocialObjects = [
     name: "Twitter",
     href: "https://twitter.com/beeburrt",
     linkTitle: `${SITE.title} on Twitter`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",
@@ -88,7 +88,7 @@ export const SOCIALS: SocialObjects = [
     name: "CodePen",
     href: "https://codepen.io/beeburrt",
     linkTitle: `${SITE.title} on CodePen`,
-    active: true,
+    active: false,
   },
   {
     name: "Discord",
