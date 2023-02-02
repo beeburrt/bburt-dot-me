@@ -4,14 +4,14 @@ export const SITE = {
   website: "https://bburt.me/",
   author: "B. Burt",
   desc: "Light-hearted blog about learning web development, my life and my mistakes",
-  title: "BBurt-dot-me",
+  title: "bburt-dot-me",
   ogImage: "kyt.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
 
 export const LOGO_IMAGE = {
-  enable: false,
+  enable: true,
   svg: true,
   width: 216,
   height: 46,
