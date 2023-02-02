@@ -7,7 +7,7 @@ title: "About"
   <img src="/assets/kyt.jpg" class="sm:w-1/2 mx-auto" alt="My drawing of a person pointing a gun at his television for a head">
 </div>
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+I'm currently studying web development.
 
 This theme is aimed to be accessible out of the box. Light and dark mode are supported by
 default and additional color schemes can also be configured.

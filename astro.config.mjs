@@ -10,7 +10,7 @@ import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://astro-paper.pages.dev/",
+  site: "https://bburt.me/",
   integrations: [
     tailwind({
       config: {

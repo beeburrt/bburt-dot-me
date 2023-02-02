@@ -2,10 +2,10 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://bburt.me/",
-  author: "Brian Burt",
+  author: "B. Burt",
   desc: "Light-hearted blog about learning web development, my life and my mistakes",
   title: "BBurt-dot-me",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "kyt.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
