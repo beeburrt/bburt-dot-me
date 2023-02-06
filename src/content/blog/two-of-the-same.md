@@ -1,7 +1,7 @@
 ---
 author: B. Burt
 pubDatetime: 2022-11-15
-title: Two of the Same Icon on my Dock??
+title: Two of the Same Icon on my Dock
 postSlug: two-of-the-same
 featured: true
 ogImage: ""

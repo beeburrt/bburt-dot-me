@@ -1,7 +1,7 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://bburt.me/",
+  website: "https://bburt-dot-me.pages.dev/",
   author: "B. Burt",
   desc: "Light-hearted blog about learning web development, my life and my mistakes",
   title: "bburt-dot-me",
@@ -12,7 +12,7 @@ export const SITE = {
 
 export const LOGO_IMAGE = {
   enable: true,
-  svg: true,
+  svg: false,
   width: 216,
   height: 46,
 };

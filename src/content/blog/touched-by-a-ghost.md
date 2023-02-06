@@ -3,13 +3,13 @@ author: B. Burt
 pubDatetime: 2022-05-01
 title: Touched By A Ghost
 postSlug: touched-by-a-ghost
-featured: false
+ogImage: ""
+featured: true
 draft: false
 tags:
   - recovery
   - homelessness
   - drug addiction
-ogImage: ""
 description: Paranormal encounter alone late at night in a gas station bathroom
 ---
 

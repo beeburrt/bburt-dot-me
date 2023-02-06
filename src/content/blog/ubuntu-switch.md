@@ -4,6 +4,7 @@ pubDatetime: 2022-09-22
 title: On Switching From Ubuntu
 postSlug: ubuntu-switch
 featured: true
+draft: false
 ogImage: ""
 tags:
   - operating systems
