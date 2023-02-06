@@ -27,7 +27,7 @@ I went back to prison in 2020 for a meth induced, psychotic episode that ended w
 
 I'm still paying for that one.
 
-But while I was locked up this last time, I had the idea that I wanted to try learning programming again. I had started learning Python long time ago, in an intro to Computer Science class that I never finished.
+But while I was locked up this last time, I had the idea that I wanted to try learning programming again. I had started learning Python a long time ago, in an intro to Computer Science class that I never finished.
 
 But so when I got out, I found a Dell laptop on Craigslist for $200. It's actually a good computer for that price. Intel i5 with 8G RAM and a 256G SSD.
 
