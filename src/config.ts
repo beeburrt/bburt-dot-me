@@ -1,11 +1,11 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://bburt-dot-me.pages.dev/",
+  website: "https://bburt.me/",
   author: "B. Burt",
   desc: "Light-hearted blog about learning web development, recovery, my life and my mistakes",
   title: "bburt-dot-me",
-  ogImage: "kyt.jpg",
+  ogImage: "logo.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
