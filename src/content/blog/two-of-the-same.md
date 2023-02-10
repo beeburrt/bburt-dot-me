@@ -161,7 +161,7 @@ xprop WM_CLASS
 
 This will turn your pointer or cursor into a little crosshairs thing. Move the crosshairs onto (anywhere on top of) your Firefox Developer browser window and click your mouse. Displayed in your terminal will be the WM_CLASS (whatever that is). My output said: `WM_CLASS(STRING) = "Navigator", "firefox-aurora"`.
 
-With sudo privileges, I changed the line in my firefox-dev.desktop file.
+With sudo privileges, I changed the line in my `firefox-dev.desktop` file.
 
 Just do:
 

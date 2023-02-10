@@ -6,4 +6,4 @@ Astro site I'm building using [Sat Naing's template, Astro Paper](https://github
 
 ## Get in touch!
 
-Email me: [bburt@bburt.me](mailto:bburt@bburt.me)
+Email me at [bburt@bburt.me](mailto:bburt@bburt.me).
