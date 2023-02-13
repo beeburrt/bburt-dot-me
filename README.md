@@ -2,7 +2,7 @@
 
 **Work in progess...**
 
-Astro site I'm building using [Sat Naing's template, Astro Paper](https://github.com/satnaing/astro-paper)
+Astro blog using [Sat Naing's template, Astro Paper](https://github.com/satnaing/astro-paper)
 
 ## Get in touch!
 

@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://bburt.me/",
   author: "B Burt",
   desc: "Light-hearted blog about web development, learning, my life and recovery",
-  title: "bburt.me",
+  title: "bburt.dot.me",
   ogImage: "dev.svg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -112,7 +112,7 @@ export const SOCIALS: SocialObjects = [
     name: "Reddit",
     href: "https://old.reddit.com/user/beeburrt",
     linkTitle: `${SITE.author} on Reddit`,
-    active: true,
+    active: false,
   },
   {
     name: "Skype",
