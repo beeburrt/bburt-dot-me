@@ -13,25 +13,29 @@ I was into skateboarding and punk rock shows (not that those are wrong, lol). I 
 
 I call it self-medicating my depression and anxiety.
 
-In my thirties I started using opiates. Soon I started selling them to support my habit.
+In my thirties I started using opiates. Eventually, I started selling them to support my habit.
 
-Opiate addiction is horrible. I wouldn't wish it on my enemies (I don't have any enemies, lol). Ask anyone who has lived through an opiate addiction, I guarantee they know multiple people who have died from an overdose.
+Opiate addiction is horrible. I wouldn't wish it on my worst enemies (I don't have any enemies, lol). Ask anyone who has lived through an opiate addiction, I guarantee they know multiple people who have died from an overdose.
 
 I've made a lot of mistakes in my life. Selling drugs that are capable of taking lives is something I can't undo.
 
 In 2011 I got sentenced to 60 months for Controlled Substance Homicide. My friend overdosed and died. His drugs came from me.
 
-You would think that serving time in prison would do the trick. That I would stay on the right track after that. And I _had_ intended on staying clean from then on, but I guess I had more figuring-out to learn.
+You would think that serving time in prison would do the trick. That I would stay on the right track after that. And I _had_ intended on staying clean from then on, but I guess I had more figuring-it-out to do.
+
+I ended up back in prison a second time for drug related offenses.
 
 Don't do drugs y'all.
 
-While I was locked up, I had the idea that I wanted to learn programming when I got out. I had started learning Python a long time ago, in an intro to Computer Science class that I never finished.
+Long-story-short, I'm clean and sober and in active recovery now. I believe it's never too late to change your life.
 
-I found a Dell laptop on Craigslist for $200. It's actually a good computer for that price. Intel i5 with 8G RAM and a 256G SSD.
+While I was locked up, I decided that I wanted to learn programming/web development when I got out. I had started learning Python a long time ago, in an intro to Computer Science class but I ended up quitting because, well, reasons.
 
-Anyways, I got this computer and now I spend as much time as I can trying to learn as much as I can. The problem is that it's all so interesting, and there's so much to learn!
+So when I got out, I found a Dell laptop on Craigslist for $200. It's actually a good computer for that price. Intel i5 with 8G RAM and a 256G SSD.
 
-Currently studying Ruby and Ruby on Rails, React, JavaScript and TypeScript, C++ and all things Linux.
+Anyways, I got this computer and now I spend as much time as I can trying to learn as much as I can. The problem is that it's all so interesting! And there's so much to learn!
+
+I'm still figuring out what path I want to pursue but I'm currently studying web development, Ruby and Ruby on Rails, React, JavaScript and TypeScript, C++ and all things Linux.
 
 I'm seeking a mentor and a job in the tech industry. Contact info below, get in touch!
 
