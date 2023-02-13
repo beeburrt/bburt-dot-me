@@ -4,7 +4,7 @@ export const SITE = {
   website: "https://bburt.me/",
   author: "B Burt",
   desc: "Light-hearted blog about web development, learning, my life and recovery",
-  title: "bburt.dot.me",
+  title: "bburt-dot-me",
   ogImage: "dev.svg",
   lightAndDarkMode: true,
   postPerPage: 3,
