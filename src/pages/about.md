@@ -37,7 +37,13 @@ Anyways, I got this computer and now I spend as much time as I can trying to lea
 
 I'm still figuring out what path I want to pursue but I'm currently studying web development, Ruby and Ruby on Rails, React, JavaScript and TypeScript, C++ and all things Linux.
 
-I'm seeking a mentor and a job in the tech industry. Contact info below, get in touch!
+I'm currently seeking a mentor and a job.
+
+I know I have a seriously uphill battle trying to find employment as a developer. Some of the not-so-awesome challenges include being almost 50 yrs old (ageism is a thing) and new to it all, having big gaps in my work history, being a felon.
+
+But I'm passionate, determined, and enthusiastic about it all. I love learning new things and I know that I'll succeed.
+
+Contact info below, get in touch!
 
 ## Tech Stack
 
