@@ -25,11 +25,11 @@ So when I see the light and the door ajar and the business itself is closed for 
 
 So in I go, shut and lock the door, and have a look around. It’s fairly good-sized for a gas station bathroom. There’s a step down to the commode. No stall or anything.
 
-Well so, I believe I relieved myself. Maybe I didn’t. What I **am** certain of is what follows. Like I mentioned earlier, I was using drugs at the time and I had some on me so I proceeded to fix myself up. I did that, then put everything away in my backpack (I had tried to be in the habit of putting everything (paraphernalia, etc) away before I would actually do the drugs but that didn’t always happen.
+Well so, I believe I relieved myself. Maybe I didn’t. What I **am** certain of is what follows. Like I mentioned earlier, I was using drugs at the time and I had some on me so I proceeded to fix myself up. I did that, then put everything away in my backpack (I had tried to be in the habit of putting everything away (paraphernalia, etc) just in case before I would actually do the drugs, but that didn’t always happen).
 
 And this is when it gets weird. (As if it’s not already weird). Now, I’m not gonna try and make this seem extra spooky—except to say that I was alone and it was late at night—and even though some may say that I was on drugs therefore this event could have been all in my head—to them I say, Fuck You! I know what I know. Plus, I wasn’t like: all out of my head high, my habit was basically like maintenance—to keep from getting sick.
 
-Anyways, I was standing up, ALONE, in the middle of this good-sized, open-spaced gas station bathroom looking around, trying to decide where exactly I wanted to lay my head down for the night when I felt **a hand on my throat**. I shit you not.
+Anyways, I was standing up, ALONE, in the middle of this big gas station bathroom in the middle of the night looking around, trying to decide where exactly I wanted to lay my head down for the night when I felt **a hand on my throat**. I shit you not. A fucking hand grabbed my throat!
 
 It felt not too hard, not too soft. Like a friend pretending to choke you maybe. With one hand. Like halfway between a rough grab and a soft caress. Just a medium ghost grope, lol.
 
