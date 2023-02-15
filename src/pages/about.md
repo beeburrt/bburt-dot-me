@@ -35,7 +35,7 @@ So when I got out, I found a Dell laptop on Craigslist for $200. It's actually a
 
 Anyways, I got this computer and now I spend as much time as I can trying to learn as much as I can. The problem is that it's all so interesting! And there's so much to learn!
 
-I'm still figuring out what path I want to pursue but I'm currently studying web development, Ruby and Ruby on Rails, React, JavaScript, Node and TypeScript, C++ and all things Linux.
+I'm still figuring out exactly what I want to do, but I'm currently studying web development, Ruby/Ruby on Rails, React, JavaScript/Node, TypeScript, Bash, C++ and all things Linux.
 
 I'm currently seeking a mentor and a job.
 
