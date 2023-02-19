@@ -3,7 +3,6 @@ author: B. Burt
 pubDatetime: 2022-05-01
 title: Touched By A Ghost
 postSlug: touched-by-a-ghost
-ogImage: ""
 featured: true
 draft: false
 tags:

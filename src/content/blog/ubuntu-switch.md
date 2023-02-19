@@ -5,7 +5,6 @@ title: On Switching From Ubuntu
 postSlug: ubuntu-switch
 featured: true
 draft: false
-ogImage: ""
 tags:
   - operating systems
   - writing

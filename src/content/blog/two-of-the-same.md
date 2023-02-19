@@ -3,13 +3,11 @@ author: B. Burt
 pubDatetime: 2022-11-15
 title: Two of the Same Icon on my Dock
 postSlug: two-of-the-same
-featured: true
-ogImage: ""
+featured: false
 tags:
   - browsers
   - learning
   - linux
-  - Firefox
 description: Solving an issue where there were two of the same Firefox Developer Edition browser icon on my dock
 ---
 
