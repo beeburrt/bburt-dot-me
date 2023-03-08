@@ -52,7 +52,7 @@ export const SOCIALS: SocialObjects = [
     name: "Mail",
     href: "mailto:bburt@bburt.me",
     linkTitle: `Email ${SITE.author}`,
-    active: true,
+    active: false,
   },
   {
     name: "Twitch",
@@ -112,7 +112,7 @@ export const SOCIALS: SocialObjects = [
     name: "Reddit",
     href: "https://old.reddit.com/user/beeburrt",
     linkTitle: `${SITE.author} on Reddit`,
-    active: false,
+    active: true,
   },
   {
     name: "Skype",

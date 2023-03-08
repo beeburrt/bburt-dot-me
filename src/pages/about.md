@@ -35,18 +35,18 @@ So when I got out, I found a Dell laptop on Craigslist for $200. It's actually a
 
 Anyways, I got this computer and now I spend as much time as I can trying to learn as much as I can. The problem is that it's all so interesting! And there's so much to learn!
 
-I'm still figuring out exactly what I want to do, but I'm currently studying web development, Ruby/Ruby on Rails, React, JavaScript/Node, TypeScript, Bash, C++ and all things Linux.
+I'm still figuring out exactly what I want to do, which path to pursue, but I'm currently studying web development, Ruby and Ruby on Rails, React, JavaScript, Node, TypeScript, Bash and all things Linux. Lately, I've been checking out Elixir too and I really like it.
 
 I'm currently seeking a mentor and a job.
 
-I know I have a seriously uphill battle trying to find employment as a developer. Some of the not-so-awesome challenges include being almost 50 yrs old (ageism is a thing) and new to it all, having big gaps in my work history, and being a felon.
+I know I have a major uphill battle trying to find employment as a developer. Some of the not-so-awesome challenges include being almost 50 yrs old (ageism is a thing) and new to it all, having big gaps in my work history, and being a felon.
 
-But I'm passionate, determined, and enthusiastic about it all. I love learning new things and I know that I'll succeed.
+But I'm passionate, determined, and enthusiastic. I love learning new things and I know that I'll succeed.
 
-Contact info below, get in touch!
+### I'd love to hear from you!
+
+Feel free to reach out via my email --> bburt at bburt dot me
 
 ## Tech Stack
 
 This site is built with [Astro](https://astro.build) using the [Astro Paper theme](https://github.com/satnaing/astro-paper)
-
-Please feel free to reach out via my [email](mailto:bburt@bburt.me).
