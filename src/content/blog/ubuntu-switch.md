@@ -36,3 +36,5 @@ A couple weeks ago I finally made the switch. To [Debian](https://www.debian.org
 The thing that sold me was their [philosophy](https://www.debian.org/intro/philosophy), and their [Social Contract](https://www.debian.org/social_contract) and while there are some downsides (Systemd, no non-free software, and software that's not always up to date), I'm happy with my choice.
 
 Thank you for reading and have a great day! :)
+
+(Update: I'm currently on Fedora)

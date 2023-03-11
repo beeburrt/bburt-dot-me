@@ -19,7 +19,7 @@ Oh, and also, I HAD TWO OF THE SAME ICON ON MY DOCK!! WTH??
 
 After I got the right icon showing up, thanks to our friend, the .desktop file (more on that later) I'd close the browser, there'd be the one icon on my dock, because I had pinned it there. If I fired up the F.D.E. browser again, the same blue icon would pop up next to it! And that bugged me.
 
-But we can fix it, with a .desktop file.
+But we can fix it, with a `.desktop` file.
 
 You can download the Firefox Developer Edition browser from the [Mozilla website](https://www.mozilla.org/en-US/firefox/developer/).
 
@@ -38,18 +38,18 @@ to decompress it. Now I'm left with `firefox-108.0b1.tar`, minus the `bz2` at th
 Now let's check the contents with the 'table-of-contents' mode by running:
 
 ```bash
-tar -tvf firefox-108.0b1.tar
+tar tvf firefox-108.0b1.tar
 ```
 
 With that command, I can see that I'm not going to be left with a mess of files everywhere in my Downloads directory because I can see the directory structure, everything will be in a firefox folder.
 
-So let's run the same command, except switch the `-t` for an `-x`, and let's throw in a `-p` for good measure, like this:
+So let's run the same command, except switch the `t` for an `x`, and let's throw in a `p` for good measure, like this:
 
 ```bash
-tar -xpvf firefox-108.0b1.tar
+tar xpvf firefox-108.0b1.tar
 ```
 
-The `-p` is for preserve permissions (not sure if it's needed or not, but I include it to be safe), the `-x` is for extract, the `-v` is for verbose mode, and the `-f` is for file.
+The `p` is for preserve permissions (not sure if it's needed or not, but I include it to be safe), the `x` is for extract, the `v` is for verbose mode, and the `f` is for file.
 
 Then delete the `.tar` file. We don't need it anymore.
 
