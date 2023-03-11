@@ -34,13 +34,15 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       </p>
       <p>
         Lastly, I'm currently studying web development. So my little web space
-        also serves as a place to point prospective employers to.
+        also serves as a place to point prospective employers to. Hire me!
       </p>
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
           <div class="social-wrapper">
-            <div class="social-links">I don't do "socials", but... </div>
+            <div class="social-links">
+              I don't really do the "socials", but I'd love to hear from you!
+            </div>
             <Socials />
           </div>
         )
