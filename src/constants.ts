@@ -1,5 +1,5 @@
 import IconMail from "@/assets/icons/IconMail.svg";
-import IconGitLab from "@/assets/icons/IconGitLab.svg";
+import IconGitHub from "@/assets/icons/IconGitHub.svg";
 import IconBrandX from "@/assets/icons/IconBrandX.svg";
 import IconMastodon from "@/assets/icons/IconMastodon.svg";
 import IconWhatsapp from "@/assets/icons/IconWhatsapp.svg";
@@ -10,10 +10,10 @@ import { SITE } from "@/config";
 
 export const SOCIALS = [
   {
-    name: "GitLab",
-    href: "https://gitlab.com/beeburrt/bburt-dot-me/",
-    linkTitle: ` ${SITE.title} on GitLab`,
-    icon: IconGitLab,
+    name: "GitHub",
+    href: "https://github.com/beeburrt/bburt-dot-me/",
+    linkTitle: ` ${SITE.title} on GitHub`,
+    icon: IconGitHub,
   },
   //{
   //  name: "X",
