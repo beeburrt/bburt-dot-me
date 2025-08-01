@@ -5,7 +5,7 @@ title: "About"
 
 I'm pretty much a normal dude (pronouns == he/him). I'm in recovery. I live in the US Pacific Northwest. I'm into computers/tech stuff, riding and working on fixed-gear bicycles and helping my parents.
 
-I used to be into web development until I realized I hated it. Now I spend most of my time learning as much as I can about infosec/cyber-security stuff, ethical hacking, etc.
+I used to be into web development until I realized I didn't like it. Now I spend most of my time learning as much as I can about infosec/cyber-security stuff, ethical hacking, etc.
 
 I start 44 things at once (too many things interest me!) and as a result I rarely finish one. Unless it's something I have to finish, like a sit-up.
 
